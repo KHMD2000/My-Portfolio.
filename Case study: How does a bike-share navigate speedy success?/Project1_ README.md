@@ -9,7 +9,9 @@ The director of marketing of a fictional bike-share company in Chicago believes 
 The data analysis process used is the following:
 
 1- Ask: How do annual members and casual riders use Cyclistic bikes differently?
+
         Why would casual riders buy Cyclistic annual memberships?
+        
         How can Cyclistic use digital media to influence casual riders to become members?
         
 2- Prepare: Usage of Cyclistic’s historical trip data to analyze and identify trends. Data of previous 12 months was used(Note: The datasets have a different name because Cyclistic
@@ -20,9 +22,12 @@ Motivate International Inc. under this license //insert link.)
 3- Process: Cleaning, transforming and organizing the raw data to make it suitable for analysis. Handling of missing values, addressing outliers, and performing any necessary data manipulations to ensure data is in a usable form for subsequent analytical steps.
 
 4- Analyze: Sorting and filtering data in a way to gain insights. In this analysis I focused on three things:
-1- The prefered type of bike each type (annual member/casual) used.
-2- The preffered routes by each type.
-3- The time of the day each type uses the bikes most.
+
+    1- The prefered type of bike each type (annual member/casual) used.
+
+    2- The preffered routes by each type.
+
+    3- The time of the day each type uses the bikes most.
 
 From these things, we can gain insight into the differences between the casual and annual members.
 
