@@ -14,3 +14,23 @@ Project 1:[How does a bike-share navigate speedy success?]
 * Description: Analyzing data from a bike-share company, gaining insights on how casual members and people with annual memberships differ in their usage.
 * Techniques Used: Data validation, data cleaning, Exploratory data analysis, visualization all using python and more specifically pandas and matplotlib.
 * N/A yet 
+
+## Tools and Technologies
+
+* Languages: Python, R
+* Tools: SQL, Excel, Pycharm, Excel, Rstudio, Google sheets
+* Visualization: Tableau
+
+## How to Navigate
+
+Each project is organized into its own directory, contaning code, data files, and a README with project-specific details. Feel free to explore the code and documentation to gain insights into my analytical process.
+
+## Getting in Touch
+
+I am eager to discuss my projects and explore potential opportunities. Please don't hesitate to reach out via email at (insert email) or connect with me on (Linkedin).
+
+Thank you for visiting my portfolio. I look forward to the opportunity to discuss how my data analysis skills can contribute to your team!
+
+Best regards,
+
+Karim Hesham Mahmoud
