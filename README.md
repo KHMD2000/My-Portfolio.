@@ -8,7 +8,7 @@ In this repository, you'll find a collection of my most compelling data analysis
 
 Please note that I am relatively new to the field, and this portfolio currently features one standout project. I am continuously expanding my skills and working on exciting new projects that will be added soon.
 
-##Highlights
+## Highlights
 
 Project 1:[How does a bike-share navigate speedy success?]
 * Description: Analyzing data from a bike-share company, gaining insights on how casual members and people with annual memberships differ in their usage.
