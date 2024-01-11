@@ -7,6 +7,7 @@ The director of marketing of a fictional bike-share company in Chicago believes 
 ## Data analysis process
 
 The data analysis process used is the following:
+
 1- Ask: How do annual members and casual riders use Cyclistic bikes differently?
         Why would casual riders buy Cyclistic annual memberships?
         How can Cyclistic use digital media to influence casual riders to become members?
