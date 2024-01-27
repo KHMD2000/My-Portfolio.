@@ -46,8 +46,11 @@ Next step was to check for missing values and duplicates, where missing values f
 
 ### Main Analysis
 The main anlysis is divided into three parts:
+
 Part 1: Determining the most used bikes for each type of member.
+
 Part 2: Determine the top 5 routes taken by each type of member.
+
 Part 3: Determine the distribution of rides for each type of member across the day.
 
 #### Part 1
