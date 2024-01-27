@@ -29,6 +29,9 @@ Represent file with top5 routes taken by annual members across the year.
 ### total_plots
 represents dataset grouped by rideable type of bike and type of member, with their respective total counts.
 
+## Code scripts
+There are 12 python code scripts, each representing the analysis done for each month, each named after the month the analysis is done for except January which is named 'main'. After doing some brief analysis on each script, all files are exported, and then imported in the 'main' script in which all datasets are joined and further analysis can be performed.
+
 ## Analysis
 
 ### Preliminary investigation
@@ -40,5 +43,33 @@ Next step was to check for missing values and duplicates, where missing values f
 ![missing_values/duplicates](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/missing_values_duplicates.png)
 
 <span style="color: red">N.B This investigation was performed for all 12 datasets representing each month. </span>
+
+### Main Analysis
+The main anlysis is divided into three parts:
+Part 1: Determining the most used bikes for each type of member.
+Part 2: Determine the top 5 routes taken by each type of member.
+Part 3: Determine the distribution of rides for each type of member across the day.
+
+#### Part 1
+After the preliminary analysis performed for each month's dataset. The datasets are exported with the name 'plot' + number. They are all imported in the 'main' python script, in which they are all joined together. Then they are grouped by the rideable type of bike and the type of member, to get the number of counts of all bikes used by each type of member and then sorted in descending order.
+![code_snippet_february](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/plot_code_snippet.png)
+
+![code_snippet_of_main(january)](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/code_snippet_january.png)
+
+The visualization is a bar chart showing the number of rides for each type of member and bikes as shown: 
+![bar_chart_number_of_rides](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/Dashboard_1__1_.png)
+
+#### Part 2
+For this part, each dataset has been filtered twice, once for casuals only and another for members only and then exported, where again, they were imported in the 'main' script, where they are all joined. Once all datasets were joined/concatanated, the new dataset was grouped by 'start_station_name' and 'end_station_name' and each combination of these is a 'route', then they were sorted in descending order and filtered for only the top 5 combinations of each. Which were at the end exported as csv files named 'top5_casual' and 'top5_member'.
+![code_snippet_march](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/casual_member_filtering_march.png)
+
+The visualization is a scatter plot, where each point is at the  intersection of the start staton and end station with intensity of color and size of point representing how many times(counts) the route was taken as shown:
+![scatterplot_of_routes](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/Dashboard_1.png)
+
+#### Part 3
+For this part, filtering for members and casuals was done again, but an added column in which the time(hour) of the ride started was inserted, then the datasets were exported as 'timedisribution' and 'timedisributionmember'. These were imported in the 'main' script where they were all joined together and then exported as 'time casual' and 'time_member' which were used as datasets for the visualtizations.
+![code_snippet_April]()
+
+
 
 
