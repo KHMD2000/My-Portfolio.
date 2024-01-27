@@ -73,6 +73,12 @@ For this part, filtering for members and casuals was done again, but an added co
 The visualization is a histogram for both casual rides only and annual members only, where in the x-axis we have the time in which the ride started and in the y-axis we have the number of rides as shown:
 ![Histogram_of_NumberOfRides_vs_time](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/Dashboard_1__2_.png)
 
+* The following are snippets of the joining procedure of all the datasets and how they were grouped and filtered in the 'main script'
+
+1- ![Appending_datasets1](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/Appending_datasets_into_a_list.png)
+
+2- ![Joining_grouping_sorting_and_filtering_datasets1](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/joing_sorting_filtering_datasets1.png)
+
 
 
 
