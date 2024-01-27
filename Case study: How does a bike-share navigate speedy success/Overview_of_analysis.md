@@ -20,4 +20,18 @@ Represents the dataset filtered for casual members but with added column represe
 ### timedisributionmember + number
 Same as timedisribution but filtered for annual members.
 
+### top5_casual
+Represent file with the top5 routes taken by casuals across the year.
+
+### top5_member
+Represent file with top5 routes taken by annual members across the year.
+
+### total_plots
+represents dataset grouped by rideable type of bike and type of member, with their respective total counts.
+
+## Analysis
+
+The analysis starts by importing the original datasets , then checking for validity by looking at the datatypes of the different columns. Doing that, it is found that the data type of 'started_at' and 'ended_at' is incorrect, hence it is changed to datetime format.
+![validation](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/data_type.png)
+
 
