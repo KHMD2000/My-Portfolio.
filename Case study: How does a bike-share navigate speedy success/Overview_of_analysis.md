@@ -33,5 +33,6 @@ represents dataset grouped by rideable type of bike and type of member, with the
 
 The analysis starts by importing the original datasets , then checking for validity by looking at the datatypes of the different columns. Doing that, it is found that the data type of 'started_at' and 'ended_at' is incorrect, hence it is changed to datetime format.
 ![validation](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/data_type.png)
+<img src="https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/data_type.png" alt="Example Image">
 
 
