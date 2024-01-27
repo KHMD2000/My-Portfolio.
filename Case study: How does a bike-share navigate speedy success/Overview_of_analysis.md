@@ -68,7 +68,10 @@ The visualization is a scatter plot, where each point is at the  intersection of
 
 #### Part 3
 For this part, filtering for members and casuals was done again, but an added column in which the time(hour) of the ride started was inserted, then the datasets were exported as 'timedisribution' and 'timedisributionmember'. These were imported in the 'main' script where they were all joined together and then exported as 'time casual' and 'time_member' which were used as datasets for the visualtizations.
-![code_snippet_April]()
+![code_snippet_April](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/code_snippet_time_april.png)
+
+The visualization is a histogram for both casual rides only and annual members only, where in the x-axis we have the time in which the ride started and in the y-axis we have the number of rides as shown:
+![Histogram_of_NumberOfRides_vs_time](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/Dashboard_1__2_.png)
 
 
 
