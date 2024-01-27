@@ -39,6 +39,6 @@ The analysis starts by importing the original datasets , then checking for valid
 Next step was to check for missing values and duplicates, where missing values found were dropped, and duplicates if there were any would have been dropped but in this case none were found
 ![missing_values/duplicates](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/missing_values_duplicates.png)
 
-<span style="color: red;">N.B This investigation was performed for all 12 datasets representing each month.</span>
+<span style="color: red">N.B This investigation was performed for all 12 datasets representing each month. </span>
 
 
