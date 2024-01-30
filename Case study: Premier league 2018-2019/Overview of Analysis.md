@@ -28,3 +28,11 @@ Fourth query -> ![snippet-HTR≠FTR,HTR=H-FTR=D](https://gitlab.com/computationa
 
 Snippet pie chart code -> ![R-code,snippet](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/Snippet-R-code.png)
 
+Three visualization were created:
+
+1- Pie chart showing probabilities of all possible combinations -> ![All_possible_combinations_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/combinations_of_HTR-FTR.png)
+
+2- Pie chart showing probabilities of the three availiable combinations where HTR = FTR -> ![HTR=FTR_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/FTR_HTR.png)
+
+3- Pie chart showing probabilities of the 6 availiable combinations where HTR ≠ FTR -> ![HTR≠FTR_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/FTR___HTR.png)
+
