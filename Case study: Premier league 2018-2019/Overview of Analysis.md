@@ -24,15 +24,29 @@ Third query -> ![snippet-HTR=FTR=H](https://gitlab.com/computational1/my_portfol
 
 Fourth query -> ![snippet-HTR≠FTR,HTR=H-FTR=D](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/HTR_FTR_HTR_H_FTR_D.png)
 
+THe last triplet of queries (arguably the ones which give the most insights), consider the probability of getting a FTR given the knowledge of the HTR (for example given HTR = H, what are the probabilities of getting H,D and A as a Full time result)
+
+Fifth query(HTR = H) -> ![snippet-HTR=H](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/HTR___H.png)
+
+Sixth query(HTR = D) -> ![snippet-HTR=D](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/HTR___D.png)
+
+Seventh query(HTR = A) -> ![snippet-HTR=A](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/HTR___A.png)
+
 * Based on the results acquired from these queries pie charts to show the probabilities of the different combinations were done using R language.
 
 Snippet pie chart code -> ![R-code,snippet](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/Snippet-R-code.png)
 
-Three visualization were created:
+Six visualization were created:
 
 1- Pie chart showing probabilities of all possible combinations -> ![All_possible_combinations_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/combinations_of_HTR-FTR.png)
 
 2- Pie chart showing probabilities of the three availiable combinations where HTR = FTR -> ![HTR=FTR_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/FTR_HTR.png)
 
 3- Pie chart showing probabilities of the 6 availiable combinations where HTR ≠ FTR -> ![HTR≠FTR_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/FTR___HTR.png)
+
+4-  Pie chart showing probabilities of the possible combinations given HTR = H -> ![HTR=H_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/HTR___H_pie_chart.png)
+
+5- Pie chart showing probabilities of the possible combinations given HTR = A -> ![HTR=A_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/HTR___A_pie_chart.png)
+
+6- Pie chart showing probabilities of the possible combinations given HTR = D -> ![HTR=D_pie_chart]()
 
