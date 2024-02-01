@@ -48,5 +48,5 @@ Six visualization were created:
 
 5- Pie chart showing probabilities of the possible combinations given HTR = A -> ![HTR=A_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/HTR___A_pie_chart.png)
 
-6- Pie chart showing probabilities of the possible combinations given HTR = D -> ![HTR=D_pie_chart]()
+6- Pie chart showing probabilities of the possible combinations given HTR = D -> ![HTR=D_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/HTR___D_pie_chart.png)
 
