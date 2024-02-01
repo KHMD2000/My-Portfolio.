@@ -63,7 +63,18 @@ The data analysis process used is the following:
 
     6- The sixth visualization confirms yet again the susceptibility in the outcome when teams are drawing at half time, In this case it could go whichever way, hence it would be better to keep the experienced/best players in the team's roaster in the field.
 
-    * Act:
+ * Act: Recommendations based on the insights:
+
+    1- Sub in junior players when the probability of the game going in a certain direction is relatively high(applies for both if it the home team or away team); based on the analysis this occurs when at Half time home team is winning and also when Away team is winning.
+
+    2- Do not sub in junior players when game could go either way, high unpredictability; this occurs when teams are drawing at Half time.
+
+
+Addendum:
+
+More data would be required to make a better analysis, for example the results of the game during the various phases of the second half, so that for example if at half time there was a draw but at the 70th minute home team is winning by 3-1, subbing in junior players would be a good idea.
+
+
 
 
 
