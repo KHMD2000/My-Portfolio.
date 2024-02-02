@@ -53,7 +53,7 @@ An expansion of the columns as well as coloring the headers of each field to mak
     To get the probabilities, we create two fields named 'Interval_3_age' and 'percentage_won_age', percentage won is calculated the same way as in the height, and in this case instead of taking an interval of 5 values, 3 were taken (e.g 22-24, all inclusive) ->
 ![Interval_3_age_vs_percentage_won](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/Interval_3_age_vspercentage_won.png)
 
-    A pie chart was created using the values from the values of these two fields ->
+    A pie chart was created using the values from these two fields ->
 ![pie_chart_age](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/probability_of_winning_medals_based_on_age.png)
 
 ### 3- Weight:
@@ -67,4 +67,8 @@ An expansion of the columns as well as coloring the headers of each field to mak
     A scatter plot was created using the values from these two fields where the weight is in the x-axis while the number of medals is on the y-axis -> 
 ![weight_vs_medalscounts](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/total_number_of_medals_vs_weight.png)
 
-    To get the probabilities
+    To get the probabilities, we create two fields named 'Interval_10_weight' and 'percentage_won_weight', percentage won is calculated in the same manner as in height and age, while in this case Interval is taken for 10 values in each cell (e.g. 56kg to 65kg) ->
+![Interval_10_weight_vs_percentage_won](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/Interval_10_weight_vs_percentagewon.png)
+
+     A pie chart was created using the values from these two fields ->
+![pie_chart_weight](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/probability_of_winning_medals_based_on_weight.png)
