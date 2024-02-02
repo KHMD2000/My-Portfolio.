@@ -39,7 +39,32 @@ An expansion of the columns as well as coloring the headers of each field to mak
     Using these values a pie chart was drawn as shown here -> 
 ![pie_chart_height](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/probability_of_winning_medals_based_on_height.png)
 
-### 2- Weight:
+### 2- Age:
 
+    Same procedure was done for age where we first sort age from youngest to oldest, then  a new field was created named "Total_medals_age" then applied COUNTIFS function and dragging for all possible ages to get the total number of medals acquired for Judo athletes of a specific age as shown ->
+![total_medals_age](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/Total_medals_age.png)
 
+    Then two fields were created named 'Age_to_draw' and 'medals_age_to_draw' which represent the same fields 'total medals_to_draw' and 'Height_to draw' but for age ->
+![total_medals_to_draw-&-age_to_draw](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/Age_vs_medals.png)
 
+    A scatter plot was created using the values from these two fields where the age is in the x-axis while the number of medals is on the y-axis ->
+![age_vs_medalscounts_plot](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/total_number_of_medals_vs_age.png)
+
+    To get the probabilities, we create two fields named 'Interval_3_age' and 'percentage_won_age', percentage won is calculated the same way as in the height, and in this case instead of taking an interval of 5 values, 3 were taken (e.g 22-24, all inclusive) ->
+![Interval_3_age_vs_percentage_won](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/Interval_3_age_vspercentage_won.png)
+
+    A pie chart was created using the values from the values of these two fields ->
+![pie_chart_age](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/probability_of_winning_medals_based_on_age.png)
+
+### 3- Weight:
+
+    Same procedures yet again are applied for weight, where I sort from the lightest to the heaviest, then a new field was created named 'Total_medals_weight' then applied COUNTIFS function and dragging for all possible wieghts to get the total number of medals acquired for Judo athletes of a specific weight as shown ->
+![total_medals_weight](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/total_medals_weight.png)
+
+    Then two fields were created named 'Weight_to_draw' and 'medals_weight_to_draw' which represent the same fields as the ones discussed in height and age ->
+![total_medals_to_draw-&-weight_to_draw](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/Weight_vs_medals.png)
+
+    A scatter plot was created using the values from these two fields where the weight is in the x-axis while the number of medals is on the y-axis -> 
+![weight_vs_medalscounts](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/total_number_of_medals_vs_weight.png)
+
+    To get the probabilities
