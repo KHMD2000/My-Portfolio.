@@ -39,7 +39,8 @@ There are 12 python code scripts, each representing the analysis done for each m
 The analysis starts by importing the original datasets , then checking for validity by looking at the datatypes of the different columns. Doing that, it is found that the data type of 'started_at' and 'ended_at' is incorrect, hence it is changed to datetime format.
 ![validation_data_type](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20%26%20Visualizations/data_type.png)
 
-Next step was to check for missing values and duplicates, where missing values found were dropped, and duplicates if there were any would have been dropped but in this case none were found
+Next step was to check for missing values and duplicates, where missing values found were dropped, and duplicates if there were any would have been dropped but in this case none were found.
+
 ![missing_values/duplicates](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20%26%20Visualizations/missing_values_duplicates.png)
 
 <span style="color: red">N.B This investigation was performed for all 12 datasets representing each month. </span>
