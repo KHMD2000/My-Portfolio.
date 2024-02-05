@@ -37,11 +37,11 @@ From these things, we can gain insight into the differences between the casual a
 
 * Visualizations:
 
-1- ![bar_chart_number_of_rides](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/Dashboard_1__1_.png)
+1- ![bar_chart_number_of_rides](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20%26%20Visualizations/Dashboard_1__1_.png)
 
-2- ![scatterplot_of_routes](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/Dashboard_1.png)
+2- ![scatterplot_of_routes](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20%26%20Visualizations/Dashboard_1.png)
 
-3- ![Histogram_of_NumberOfRides_vs_time](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20&%20Visualizations/Dashboard_1__2_.png)
+3- ![Histogram_of_NumberOfRides_vs_time](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20%26%20Visualizations/Dashboard_1__2_.png)
 
 * Insights
 
