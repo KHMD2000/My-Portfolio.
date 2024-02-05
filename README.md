@@ -27,7 +27,7 @@ Each project is organized into its own directory, contaning code, data files, an
 
 ## Getting in Touch
 
-I am eager to discuss my projects and explore potential opportunities. Please don't hesitate to reach out via email at (insert email) or connect with me on (Linkedin).
+I am eager to discuss my projects and explore potential opportunities. Please don't hesitate to reach out via email at karim.hesham2011@gmail.com or connect with me on [Linkedin](www.linkedin.com/in/karim-mahmoud-77b08529b).
 
 Thank you for visiting my portfolio. I look forward to the opportunity to discuss how my data analysis skills can contribute to your team!
 
