@@ -18,7 +18,7 @@ The data analysis process used is the following:
 
     3- Given that FTR ≠ HTR what are the probabilities of the different outcomes.
 
-2- Prepare: The dataset has been collected from ![dataset_source](https://data.world/chas/2018-2019-premier-league-matches), which is a public dataset availiable to anyone containing the data from the Premier league season 2018-2019 matches.
+2- Prepare: The dataset has been collected from [dataset_source](https://data.world/chas/2018-2019-premier-league-matches), which is a public dataset availiable to anyone containing the data from the Premier league season 2018-2019 matches.
 
 3- Process: Cleaning, transforming and organizing the raw data to make it suitable for analysis. Handling of missing values, addressing outliers, and performing any necessary data manipulations to ensure data is in a usable form for subsequent analytical steps.
 
@@ -36,17 +36,17 @@ The data analysis process used is the following:
 
 * Visulizations:
 
-    1-  Pie chart showing probabilities of all possible combinations -> ![All_possible_combinations_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/combinations_of_HTR-FTR.png)
+    1-  Pie chart showing probabilities of all possible combinations -> ![All_possible_combinations_pie_chart](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20Premier%20league%202018-2019/Images/visualizations/combinations_of_HTR-FTR.png)
 
-    2- Pie chart showing probabilities of the three availiable combinations where HTR = FTR -> ![HTR=FTR_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/FTR_HTR.png)
+    2- Pie chart showing probabilities of the three availiable combinations where HTR = FTR -> ![HTR=FTR_pie_chart](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20Premier%20league%202018-2019/Images/visualizations/FTR_HTR.png)
 
-    3- Pie chart showing probabilities of the 6 availiable combinations where HTR ≠ FTR -> ![HTR≠FTR_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/FTR___HTR.png)
+    3- Pie chart showing probabilities of the 6 availiable combinations where HTR ≠ FTR -> ![HTR≠FTR_pie_chart](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20Premier%20league%202018-2019/Images/visualizations/FTR___HTR.png)
 
-    4-  Pie chart showing probabilities of the possible combinations given HTR = H -> ![HTR=H_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/HTR___H_pie_chart.png)
+    4-  Pie chart showing probabilities of the possible combinations given HTR = H -> ![HTR=H_pie_chart](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20Premier%20league%202018-2019/Images/visualizations/HTR___H_pie_chart.png)
 
-    5- Pie chart showing probabilities of the possible combinations given HTR = A -> ![HTR=A_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/HTR___A_pie_chart.png)
+    5- Pie chart showing probabilities of the possible combinations given HTR = A -> ![HTR=A_pie_chart](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20Premier%20league%202018-2019/Images/visualizations/HTR___A_pie_chart.png)
 
-    6- Pie chart showing probabilities of the possible combinations given HTR = D -> ![HTR=D_pie_chart](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Premier%20league%202018-2019/Images/visualizations/HTR___D_pie_chart.png)
+    6- Pie chart showing probabilities of the possible combinations given HTR = D -> ![HTR=D_pie_chart](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20Premier%20league%202018-2019/Images/visualizations/HTR___D_pie_chart.png)
 
 
 * Insights:
