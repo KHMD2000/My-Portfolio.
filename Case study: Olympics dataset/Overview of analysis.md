@@ -1,6 +1,6 @@
 # Analysis
 
-The dataset ![Olympics_data](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Dataset/files/athlete_events.csv) was uploaded to Excel, so that we could begin the analysis process.
+The dataset ![Olympics_data](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20Olympics%20dataset/Dataset/files/athlete_events.csv) was uploaded to Excel, so that we could begin the analysis process.
 
 * Quick preview -> ![table_preview](https://gitlab.com/computational1/my_portfolio/-/blob/main/Case%20study:%20Olympics%20dataset/Images/Visualizations/Table_preview.png)
 
