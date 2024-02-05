@@ -56,25 +56,31 @@ Part 3: Determine the distribution of rides for each type of member across the d
 
 #### Part 1
 After the preliminary analysis performed for each month's dataset. The datasets are exported with the name 'plot' + number. They are all imported in the 'main' python script, in which they are all joined together. Then they are grouped by the rideable type of bike and the type of member, to get the number of counts of all bikes used by each type of member and then sorted in descending order.
+
 ![code_snippet_february](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20%26%20Visualizations/plot_code_snippet.png)
 
 ![code_snippet_of_main(january)](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20%26%20Visualizations/code_snippet_january.png)
 
 The visualization is a bar chart showing the number of rides for each type of member and bikes as shown: 
+
 ![bar_chart_number_of_rides](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20%26%20Visualizations/Dashboard_1__1_.png)
 
 #### Part 2
 For this part, each dataset has been filtered twice, once for casuals only and another for members only and then exported, where again, they were imported in the 'main' script, where they are all joined. Once all datasets were joined/concatanated, the new dataset was grouped by 'start_station_name' and 'end_station_name' and each combination of these is a 'route', then they were sorted in descending order and filtered for only the top 5 combinations of each. Which were at the end exported as csv files named 'top5_casual' and 'top5_member'.
+
 ![code_snippet_march](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20%26%20Visualizations/casual_member_filtering_march.png)
 
 The visualization is a scatter plot, where each point is at the  intersection of the start staton and end station with intensity of color and size of point representing how many times(counts) the route was taken as shown:
+
 ![scatterplot_of_routes](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20%26%20Visualizations/Dashboard_1.png)
 
 #### Part 3
 For this part, filtering for members and casuals was done again, but an added column in which the time(hour) of the ride started was inserted, then the datasets were exported as 'timedisribution' and 'timedisributionmember'. These were imported in the 'main' script where they were all joined together and then exported as 'time casual' and 'time_member' which were used as datasets for the visualtizations.
+
 ![code_snippet_April](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20%26%20Visualizations/code_snippet_time_april.png)
 
 The visualization is a histogram for both casual rides only and annual members only, where in the x-axis we have the time in which the ride started and in the y-axis we have the number of rides as shown:
+
 ![Histogram_of_NumberOfRides_vs_time](https://github.com/KHMD2000/My-Portfolio./blob/main/Case%20study%3A%20How%20does%20a%20bike-share%20navigate%20speedy%20success/Images%20%26%20Visualizations/Dashboard_1__2_.png)
 
 * The following are snippets of the joining procedure of all the datasets and how they were grouped and filtered in the 'main script'
