@@ -16,10 +16,10 @@ The data analysis process used is the following:
 
         How can Cyclistic use digital media to influence casual riders to become members?
         
-2- Prepare: Usage of Cyclistic’s historical trip data to analyze and identify trends. Data of previous 12 months was used: ![Datasets_used](https://divvy-tripdata.s3.amazonaws.com/index.html)(Note: The datasets have a different name because Cyclistic
+2- Prepare: Usage of Cyclistic’s historical trip data to analyze and identify trends. Data of previous 12 months was used: [Datasets_used](https://divvy-tripdata.s3.amazonaws.com/index.html)(Note: The datasets have a different name because Cyclistic
 is a fictional company. For the purposes of this case study, the datasets are appropriate and
 will enable me to answer the business questions. The data has been made available by
-Motivate International Inc. under this ![license](https://divvybikes.com/data-license-agreement).)
+Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).)
 
 3- Process: Cleaning, transforming and organizing the raw data to make it suitable for analysis. Handling of missing values, addressing outliers, and performing any necessary data manipulations to ensure data is in a usable form for subsequent analytical steps.
 
