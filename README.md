@@ -6,7 +6,7 @@ Welcome to my data analysis portfolio! 🚀
 
 In this repository, you'll find a collection of my most compelling data analysis projects and case studies. Each project is a testament to my passion for uncovering meaningful insights and driving informed decision-making through data.
 
-Please note that I am relatively new to the field, and this portfolio currently features one standout project. I am continuously expanding my skills and working on exciting new projects that will be added soon.
+Please note that I am relatively new to the field, and this portfolio currently has few projects. I am continuously expanding my skills and working on exciting new projects that will be added soon.
 
 ## Highlights
 
