@@ -12,8 +12,15 @@ Please note that I am relatively new to the field, and this portfolio currently 
 
 Project 1:[How does a bike-share navigate speedy success?]
 * Description: Analyzing data from a bike-share company, gaining insights on how casual members and people with annual memberships differ in their usage.
-* Techniques Used: Data validation, data cleaning, Exploratory data analysis, visualization all using python and more specifically pandas and matplotlib.
-* N/A yet 
+* Techniques Used: Data validation, data cleaning, Exploratory data analysis, visualization all using python(data analysis) and visualization using tableau.
+
+Project 2:[Proabbility of winning a medal in the Olympics competition]
+* Description: Analyzing data from Olympics dataset, to get insight on probability of winning medals based on age, height and weight in Judo.
+* Techniques Used: All analysis process was performed in Excel as well as the visualizations.
+
+Project 3:[Correlations between half time and full time results in a Premier League game?]
+* Description: Analyzing data from premier league games in 2018-2019 to understand how confident one can be on the final result based on half time result.
+* Techniques Used:  Queries using SQL in BigQuery and visualization using R programming language.
 
 ## Tools and Technologies
 
