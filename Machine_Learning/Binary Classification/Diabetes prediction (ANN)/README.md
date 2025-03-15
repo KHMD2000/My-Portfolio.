@@ -17,3 +17,10 @@ This dataset can be used to build **machine learning models** that predict diabe
 Additionally, this dataset offers valuable insights for researchers interested in exploring the relationships between various medical and demographic factors and the likelihood of developing diabetes. By analyzing the dataset, researchers can gain a deeper understanding of the risk factors associated with diabetes and improve the accuracy of predictive models used in clinical settings.
 
 This project uses **Artificial Neural Networks (ANNs)** to train a binary classification model for diabetes prediction based on the provided features.
+
+## Data
+
+The **Diabetes Prediction** dataset is sourced from **Electronic Health Records (EHRs)**, which contain comprehensive patient health information, including medical history, diagnosis, and treatment details. The data was collected from multiple healthcare providers and aggregated into a single dataset. It includes demographic and clinical features like age, gender, BMI, hypertension, heart disease, smoking history, HbA1c level, and blood glucose level.
+
+The data was cleaned and preprocessed to ensure accuracy and consistency. EHRs provide a longitudinal view of patients' health, making the dataset valuable for identifying patterns and trends, and developing machine learning models relevant to real-world healthcare settings.
+
