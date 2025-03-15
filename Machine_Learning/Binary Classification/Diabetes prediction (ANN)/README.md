@@ -39,4 +39,7 @@ The project is organized into the following directories and files:
 
 Each part of the project is organized to support the workflow of data preprocessing, model training, and evaluation, along with visualizations that help in understanding the model's performance and feature importance.
 
+## Model:
+- **Model Type**: Artificial Neural Network (ANN)
+- **Metric**: Accuracy
 
