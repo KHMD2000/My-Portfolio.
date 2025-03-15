@@ -24,3 +24,19 @@ The **Diabetes Prediction** dataset is sourced from **Electronic Health Records 
 
 The data was cleaned and preprocessed to ensure accuracy and consistency. EHRs provide a longitudinal view of patients' health, making the dataset valuable for identifying patterns and trends, and developing machine learning models relevant to real-world healthcare settings.
 
+## Project Structure
+
+The project is organized into the following directories and files:
+
+- **images/**: This folder contains plots generated during the model training process:
+  - Loss and accuracy plots for the training of the Artificial Neural Network (ANN) model.
+  - Bar plots visualizing the feature relevance estimation for predicting diabetes.
+
+- **code/**: This folder contains the Python script and Jupyter notebook for the project:
+  - **`diabetes_prediction.ipynb`**: A Jupyter notebook that trains the ANN model, preprocesses the data, and includes detailed commentary on each step of the process. It explains the model-building process, data cleaning, and evaluation of the model.
+
+- **data/**: This folder contains the diabetes dataset used in the project. It includes the features related to patient health and demographic information.
+
+Each part of the project is organized to support the workflow of data preprocessing, model training, and evaluation, along with visualizations that help in understanding the model's performance and feature importance.
+
+
