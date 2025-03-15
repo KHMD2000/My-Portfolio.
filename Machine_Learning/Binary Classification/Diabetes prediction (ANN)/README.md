@@ -43,3 +43,7 @@ Each part of the project is organized to support the workflow of data preprocess
 - **Model Type**: Artificial Neural Network (ANN)
 - **Metric**: Accuracy
 
+##Results:
+The model achieved **low loss values** for both training and validation datasets, with both losses decreasing over time, indicating good generalization. The **test accuracy** reached high values of approximately **96%**, demonstrating the model's effectiveness in predicting diabetes.
+
+Regarding **feature relevance**, the most impactful factor for predicting diabetes was the **HbA1c level**, followed by the **blood glucose level**. These features showed the highest correlation with diabetes status, emphasizing their importance in the predictive model.
