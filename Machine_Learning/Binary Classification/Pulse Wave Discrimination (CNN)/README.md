@@ -1,3 +1,28 @@
+# **Pulse Crime Discrimination Using CNN**  
+
+## **Project Overview**  
+This project focuses on classifying scintillation signals from a scintillator material to distinguish between two types of signals:  
+- **Li6 signals**: The target signals we want to recognize.  
+- **Po signals**: The background contamination that needs to be filtered out.  
+Additionally, a **third dataset** (Phys) contains real-world signals consisting of both Li6 and Po responses.  
+
+The goal is to build a **Convolutional Neural Network (CNN)** to classify these signals with an accuracy **above 80%**, ensuring that **Po contamination does not exceed 5%** while maximizing the retention of Li6 signals.  
+
+## **Data**  
+
+### **Provenance & Sources**  
+The dataset consists of scintillation response signals collected from experimental measurements. The signals represent energy depositions in a scintillator material and are categorized as:  
+1. **Li6.npz** – The desired signal.  
+2. **Po.npz** – The background contamination to be filtered out.  
+3. **Phys.npz** – A mixed dataset containing both Li6 and Po signals.  
+
+The dataset was preprocessed to extract key features that help in distinguishing the two types of signals.  
+
+### **Collection Methodology**  
+The signals were collected from a detector using real-time pulse measurements. These measurements were then digitized and stored as numerical arrays. Exploratory data analysis was conducted to:  
+- Identify key differences between **Li6** and **Po** signals.  
+- Select the most relevant input format for model training.  
+- Choose an appropriate dataset split for training, validation, and testing.  
 
 ## **Model & Training Approach**  
 ### **Data Preprocessing & Splitting**  
