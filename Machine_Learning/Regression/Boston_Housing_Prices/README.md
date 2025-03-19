@@ -1,3 +1,25 @@
+# **Boston Housing Price Prediction Using ANN**  
+
+## **Project Overview**  
+This project aims to predict the price of houses in Boston using an **Artificial Neural Network (ANN)** regression model. The model takes in key features related to housing conditions and economic factors to estimate the cost of a house.  
+
+### **Objective**  
+- Build a regression model using an ANN to predict house prices.  
+- Evaluate model performance based on **Mean Squared Error (MSE)**.  
+- Analyze the impact of key features on price prediction.  
+
+## **Data**  
+
+### **Provenance & Sources**  
+The dataset is sourced from the **UCI Machine Learning Repository** and originates from the **Boston Housing Dataset**, collected in **1978**. It consists of **506 samples**, each representing aggregated housing information from different suburbs in **Boston, Massachusetts**.  
+
+### **Dataset Description**  
+The dataset contains **14 features**, but for this project, we focus on the following key predictors:  
+- **RM**: Average number of rooms per dwelling.  
+- **LSTAT**: Percentage of lower-status population.  
+- **PTRATIO**: Pupil-teacher ratio by town.  
+
+The target variable is the **median house price** in **$1,000s**.  
 
 ## **Model & Training Approach**  
 ### **Data Preprocessing & Splitting**  
