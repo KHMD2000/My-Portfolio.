@@ -6,7 +6,7 @@ This project aims to predict the price of houses in Boston using an **Artificial
 ### **Objective**  
 - Build a regression model using an ANN to predict house prices.  
 - Evaluate model performance based on **Mean Squared Error (MSE)**.  
-- Analyze the impact of key features on price prediction.  
+
 
 ## **Data**  
 
@@ -39,7 +39,7 @@ A **Fully Connected Artificial Neural Network (ANN)** was used, consisting of:
 ### **Training Strategy**  
 - **Loss Function**: **Mean Squared Error (MSE)** for regression.  
 - **Optimizer**: **Adam** optimizer for adaptive learning.  
-- **Stopping Criteria**: The model training was stopped when validation loss plateaued to prevent overfitting.  
+ 
 
 ## **Results**  
 - **Training & Validation Loss**: The loss consistently decreased, showing good generalization.  
