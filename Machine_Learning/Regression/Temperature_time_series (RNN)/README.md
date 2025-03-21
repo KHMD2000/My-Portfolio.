@@ -44,7 +44,7 @@ A **Recurrent Neural Network (RNN)** was implemented with the following layers:
 
 
 ## **Results**  
-- **Training Loss**: **1.69** (meaning the model’s predictions are off by approximately **1.9°C** on average).  
+- **Training Loss**: **1.69** (meaning the model’s predictions are off by approximately **1.69°C** on average).  
 - **Test Loss**: **0.74**, showing better generalization on unseen data.  
 
 ## **Conclusion**  
