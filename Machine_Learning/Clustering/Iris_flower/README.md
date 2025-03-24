@@ -35,8 +35,8 @@ Additionally, the dataset includes a **target label** specifying the species.
 - **Feature Selection**: Used all **four numerical features** (Sepal & Petal Length/Width).  
 - **Scaling**: Standardized the features to improve K-Means performance.  
 - **Dataset Split**:  
-  - **Training Set** – 80% of the data  
-  - **Test Set** – 20% of the data  
+  - **Training Set** – 70% of the data  
+  - **Test Set** – 30% of the data  
   *(Note: While K-Means is unsupervised, splitting the dataset helps evaluate clustering performance.)*  
 
 ### **Clustering Algorithm: K-Means**  
