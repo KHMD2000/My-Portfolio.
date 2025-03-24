@@ -50,7 +50,7 @@ Additionally, the dataset includes a **target label** specifying the species.
 - Computed **accuracy** based on the percentage of correctly assigned samples.  
 
 ## **Results**  
-- **Final Accuracy**: **88%**, indicating that K-Means successfully identified meaningful clusters.  
+- **Final Accuracy**: Approximately **89%**, indicating that K-Means successfully identified meaningful clusters.  
 - **Cluster Analysis**:  
   - **Iris Setosa** was the easiest to differentiate.  
   - **Iris Virginica and Iris Versicolor** had some overlap due to similar feature distributions.  
